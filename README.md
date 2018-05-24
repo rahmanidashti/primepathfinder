@@ -1,8 +1,14 @@
 # Prime Path Finder
 Prime Path Finder in C
 
-# Description
+## Description
 This is an implementation of _Prime Path Finder_ algorithm based on the Alg. 1 in the reference 2. The authors of paper proposed a prime path finder that is a extention of prime path procedure in the reference 1 (see _chapter 2, subsection 2.2.1, paeg 36_).  
+
+## Concerns
+
+## Data
+
+## Implementation
 
 
 # Reference
