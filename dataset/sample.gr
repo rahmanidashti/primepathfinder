@@ -6,14 +6,14 @@ p sp 7 9
 c graph contains 6 nodes and 8 arcs
 c node ids are numbers in 1..7
 c
-a 1 2 17
+c 1 2 17
 c arc from node 1 to node 2 of weight 17
 c
-a 1 5 10
+a 1 2 10
 a 2 3 2
-a 2 6 7
-a 3 4 5
+a 2 5 7
+a 3 7 5
 a 4 2 6
-a 5 5 7
-a 5 7 5
-a 6 7 7
+a 4 6 7
+a 5 4 5
+a 6 4 7
