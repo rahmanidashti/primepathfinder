@@ -11,7 +11,7 @@ This is an implementation of _Prime Path Finder_ algorithm based on the Alg. 1 i
 ## Implementation
 
 ## Example
-!()[https://cdn-images-1.medium.com/max/1600/1*YgtCXuRGmPfPg2PogXVCfQ.png]
+![](https://cdn-images-1.medium.com/max/1600/1*YgtCXuRGmPfPg2PogXVCfQ.png)
 
 # Reference
 1. Ammann, Paul, and Jeff Offutt. _Introduction to software testing_. Cambridge University Press, 2016.
