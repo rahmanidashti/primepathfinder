@@ -5,10 +5,13 @@ Prime Path Finder in C
 This is an implementation of _Prime Path Finder_ algorithm based on the Alg. 1 in [2]. The authors of paper proposed a prime path finder that is a extention of prime path procedure in [1] (see _chapter 2, subsection 2.2.1, paeg 36_).  
 
 ## Concerns
+The main concenrs, when the graph has many arcs and edges, is Memory.
 
 ## Data
+For input, we use the graph format (.gr) that introduced in [DIMACS](http://users.diag.uniroma1.it/challenge9/format.shtml#graph).
 
 ## Implementation
+For implementation, we make use of Linked List as our basic data structure.
 
 ## Example
 As an exampple, we created the follwong graph in the [sample.gr](https://github.com/rahmanidashti/primepathfinder/blob/master/dataset/sample.gr) and ran it.  
