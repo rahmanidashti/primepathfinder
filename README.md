@@ -11,9 +11,9 @@ This is an implementation of _Prime Path Finder_ algorithm based on the Alg. 1 i
 ## Implementation
 
 ## Example
-As an exampple, we created the follwong graph in the [sample.gr](https://github.com/rahmanidashti/primepathfinder/blob/master/dataset/sample.gr) and ran it.
-![graph](https://raw.githubusercontent.com/rahmanidashti/primepathfinder/master/dataset/Sample.png)
-The follwoing figure, show the result of prime pathes in the example:
+As an exampple, we created the follwong graph in the [sample.gr](https://github.com/rahmanidashti/primepathfinder/blob/master/dataset/sample.gr) and ran it.  
+![graph](https://raw.githubusercontent.com/rahmanidashti/primepathfinder/master/dataset/Sample.png)  
+The follwoing figure, show the result of prime pathes in the example:  
 ![result](https://raw.githubusercontent.com/rahmanidashti/primepathfinder/master/dataset/sample_result.png)
 ## Compile and Run
 First you must compile the source code by `gcc primePathFinder.c -o prime`, then you can run it by `./prime`.
